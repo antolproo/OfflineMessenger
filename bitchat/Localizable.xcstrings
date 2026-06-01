@@ -29,6 +29,12 @@
             "value" : "%@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ active"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ aktívnych"
           }
         },
         "es" : {
@@ -388,6 +400,12 @@
             "value" : "bitchat"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OfflineMessenger"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +585,12 @@
             "value" : "close"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavrieť"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -744,6 +768,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DONE"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HOTOVO"
           }
         },
         "es" : {
@@ -1104,6 +1134,12 @@
             "value" : "end-to-end encryption"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End-to-end šifrovanie"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1460,6 +1496,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "extended range"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "rozšírený dosah"
           }
         },
         "es" : {
@@ -2178,6 +2220,12 @@
             "value" : "local channels"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokálne kanály"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2894,6 +2942,12 @@
             "value" : "offline communication"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "offline komunikácian"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3071,6 +3125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "FEATURES"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FUNKCIE"
           }
         },
         "es" : {
@@ -5579,6 +5639,12 @@
             "value" : "PRIVACY"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SÚKROMIE"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6116,6 +6182,12 @@
             "value" : "WARNING"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UPOZORNENIE"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6474,6 +6546,12 @@
             "value" : "cancel"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zrušiť"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6651,6 +6729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "close"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavrieť"
           }
         },
         "es" : {
@@ -6832,6 +6916,12 @@
             "value" : "copy"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kopírovať"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7006,6 +7096,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -11512,6 +11608,12 @@
             "value" : "direct message"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "súkromná správa"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12404,7 +12506,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "bluetooth is turned off. please turn on bluetooth in settings to use bitchat."
+            "value" : "bluetooth is turned off. please turn on bluetooth in  to use bitchat."
           }
         },
         "es" : {
@@ -12416,7 +12518,7 @@
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "naka-off ang bluetooth. pakibuksan sa settings para magamit ang bitchat."
+            "value" : "naka-off ang bluetooth. pakibuksan sa  para magamit ang bitchat."
           }
         },
         "fr" : {
@@ -12583,7 +12685,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "bitchat needs bluetooth permission to connect with nearby devices. please enable bluetooth access in settings."
+            "value" : "bitchat needs bluetooth permission to connect with nearby devices. please enable bluetooth access in ."
           }
         },
         "es" : {
@@ -12595,7 +12697,7 @@
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "kailangan ng bitchat ng pahintulot sa bluetooth upang kumonekta sa mga kalapit na device. pakiactivate sa settings."
+            "value" : "kailangan ng bitchat ng pahintulot sa bluetooth upang kumonekta sa mga kalapit na device. pakiactivate sa ."
           }
         },
         "fr" : {
@@ -12763,6 +12865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "settings"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nastavenia"
           }
         },
         "es" : {
@@ -13839,6 +13947,12 @@
             "value" : "clear chat messages"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vymazať správy"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14374,6 +14488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "send private message"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "súkromná správa"
           }
         },
         "es" : {
@@ -15987,6 +16107,12 @@
             "value" : "user is blocked"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "používateľ je zablokovaný"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16343,6 +16469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "send error"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chyba odosielania"
           }
         },
         "es" : {
@@ -16703,6 +16835,12 @@
             "value" : "peer not reachable"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "používateľ nedostupný"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16880,6 +17018,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PEOPLE"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ĽUDIA"
           }
         },
         "es" : {
@@ -17240,6 +17384,12 @@
             "value" : "type a message..."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "napíšte správu..."
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17596,6 +17746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "enable location"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zapnúť polohu"
           }
         },
         "es" : {
@@ -18312,6 +18468,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "location unavailable"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poloha nedostupná"
           }
         },
         "es" : {
