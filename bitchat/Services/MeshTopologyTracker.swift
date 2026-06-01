@@ -54,7 +54,7 @@ final class MeshTopologyTracker {
         }
     }
 
-    func computeRoute(from start: Data?, to goal: Data?, maxHops: Int = 10) -> [Data]? {
+    func computeRoute(from start: Data?, to goal: Data?, maxHops: Int = 20) -> [Data]? {
         guard let source = sanitize(start), let target = sanitize(goal) else { return nil }
         if source == target { return [] } // Direct connection, no intermediate hops
 
