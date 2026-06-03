@@ -29,12 +29,6 @@
             "value" : "%@"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -131,6 +125,12 @@
             "value" : "%@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,12 +213,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ active"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ aktívnych"
           }
         },
         "es" : {
@@ -317,6 +311,12 @@
             "value" : "%@ активных"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ aktívnych"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -395,12 +395,6 @@
           }
         },
         "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OfflineMessenger"
-          }
-        },
-        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OfflineMessenger"
@@ -502,6 +496,12 @@
             "value" : "OfflineMessenger"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OfflineMessenger"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -583,12 +583,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "close"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavrieť"
           }
         },
         "es" : {
@@ -687,6 +681,12 @@
             "value" : "закрыть"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavrieť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -768,12 +768,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DONE"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "HOTOVO"
           }
         },
         "es" : {
@@ -870,6 +864,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ГОТОВО"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HOTOVO"
           }
         },
         "sv" : {
@@ -1134,12 +1134,6 @@
             "value" : "end-to-end encryption"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "End-to-end šifrovanie"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1234,6 +1228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "сквозное шифрование"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End-to-end šifrovanie"
           }
         },
         "sv" : {
@@ -1498,12 +1498,6 @@
             "value" : "extended range"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "rozšírený dosah"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1598,6 +1592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "расширенный радиус"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "rozšírený dosah"
           }
         },
         "sv" : {
@@ -1779,6 +1779,12 @@
             "value" : "получай уведомления, когда подключаются любимые люди"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nechajte si zaslať upozornenie, keď sa pripoja vaši obľúbení ľudia"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1956,6 +1962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "избранное"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "obľúbené"
           }
         },
         "sv" : {
@@ -2137,6 +2149,12 @@
             "value" : "каналы geohash для чата с людьми поблизости через децентрализованные анонимные реле"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kanály geohash na komunikáciu s ľuďmi v okolitých regiónoch prostredníctvom decentralizovaných anonymných relé"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2218,12 +2236,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "local channels"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lokálne kanály"
           }
         },
         "es" : {
@@ -2320,6 +2332,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "локальные каналы"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokálne kanály"
           }
         },
         "sv" : {
@@ -2501,6 +2519,12 @@
             "value" : "используй @nickname, чтобы уведомить конкретных людей"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "použite @nickname na upozornenie konkrétnych osôb"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2678,6 +2702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "упоминания"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zmienky"
           }
         },
         "sv" : {
@@ -2859,6 +2889,12 @@
             "value" : "работает без интернета через bluetooth low energy"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "funguje bez pripojenia k internetu prostredníctvom Bluetooth Low Energy"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2940,12 +2976,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "offline communication"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "offline komunikácia"
           }
         },
         "es" : {
@@ -3044,6 +3074,12 @@
             "value" : "офлайн-связь"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "offline komunikácia"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3125,12 +3161,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "FEATURES"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "FUNKCIE"
           }
         },
         "es" : {
@@ -3227,6 +3257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ВОЗМОЖНОСТИ"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FUNKCIE"
           }
         },
         "sv" : {
@@ -3408,6 +3444,12 @@
             "value" : "• нажми #mesh, чтобы сменить канал"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Ťuknite na #mesh, aby ste prepnuli kanál"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3585,6 +3627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• тройной тап по чату очистит его"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• trojité ťuknutie na konverzáciu na jej vymazanie"
           }
         },
         "sv" : {
@@ -3766,6 +3814,12 @@
             "value" : "• введи /, чтобы увидеть команды"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• zadajte / pre príkazy"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3943,6 +3997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• нажми на иконку людей, чтобы открыть боковое меню"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Ťuknite na ikonu osôb v bočnom paneli"
           }
         },
         "sv" : {
@@ -4124,6 +4184,12 @@
             "value" : "• коснись своего ника, чтобы изменить его"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Nastavte si prezývku ťuknutím na ňu"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4301,6 +4367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "• нажми имя пользователя, чтобы начать лс"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Ťuknite na meno priateľa a začnite súkromnú konverzáciu"
           }
         },
         "sv" : {
@@ -4482,6 +4554,12 @@
             "value" : "КАК ИСПОЛЬЗОВАТЬ"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AKO POUŽÍVAŤ"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4659,6 +4737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "новый id пира создаётся регулярно"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pravidelne generované nové ID partnera"
           }
         },
         "sv" : {
@@ -4840,6 +4924,12 @@
             "value" : "эфемерная личность"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prechodná identita"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5017,6 +5107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "без серверов, аккаунтов и сбора данных"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "žiadne servery, účty ani zber údajov"
           }
         },
         "sv" : {
@@ -5198,6 +5294,12 @@
             "value" : "без трекинга"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bez sledovania"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5375,6 +5477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "тройной тап по логотипу мгновенно очищает все данные"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trikrát ťuknite na logo a všetky údaje sa okamžite vymažú"
           }
         },
         "sv" : {
@@ -5556,6 +5664,12 @@
             "value" : "режим паники"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "panický režim"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5637,12 +5751,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PRIVACY"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "SÚKROMIE"
           }
         },
         "es" : {
@@ -5739,6 +5847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "КОНФИДЕНЦИАЛЬНОСТЬ"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SÚKROMIE"
           }
         },
         "sv" : {
@@ -6182,12 +6296,6 @@
             "value" : "WARNING"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UPOZORNENIE"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6284,6 +6392,12 @@
             "value" : "ПРЕДУПРЕЖДЕНИЕ"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UPOZORNENIE"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6336,6 +6450,186 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "警告"
+          }
+        }
+      }
+    },
+    "Choose an image" : {
+      "comment" : "A label displayed above a button that allows the user to choose an image to send.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر صورة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "একটি ছবি নির্বাচন করুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bild auswählen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose an image"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige una imagen"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pumili ng larawan"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir une image"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "בחר תמונה"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक चित्र चुनें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih gambar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli un’immagine"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像を選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지를 선택하세요"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih imej"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एउटा तस्वीर चयन गर्नुहोस्"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kies een afbeelding"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz obraz"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolher uma imagem"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha uma imagem"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите изображение"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj en bild"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒரு படத்தைத் தேர்ந்தெடுக்கவும்"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เลือกภาพ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir görüntü seç"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть зображення"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ایک تصویر منتخب کریں"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn một hình ảnh"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择图像"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇圖像"
           }
         }
       }
@@ -6546,12 +6840,6 @@
             "value" : "cancel"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "zrušiť"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6648,6 +6936,12 @@
             "value" : "отмена"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zrušiť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6729,12 +7023,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "close"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zavrieť"
           }
         },
         "es" : {
@@ -6833,6 +7121,12 @@
             "value" : "закрыть"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zavrieť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6914,12 +7208,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "copy"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "kopírovať"
           }
         },
         "es" : {
@@ -7018,6 +7306,12 @@
             "value" : "копировать"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kopírovať"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7096,12 +7390,6 @@
           }
         },
         "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -7198,6 +7486,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -11608,12 +11902,6 @@
             "value" : "direct message"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "súkromná správa"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11708,6 +11996,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "личное сообщение"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "súkromná správa"
           }
         },
         "sv" : {
@@ -12867,12 +13161,6 @@
             "value" : "settings"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "nastavenia"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12967,6 +13255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "настройки"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nastavenia"
           }
         },
         "sv" : {
@@ -13947,12 +14241,6 @@
             "value" : "clear chat messages"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "vymazať správy"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14047,6 +14335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "очистить чат"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vymazať správy"
           }
         },
         "sv" : {
@@ -14490,12 +14784,6 @@
             "value" : "send private message"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "súkromná správa"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14590,6 +14878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "отправить приватное сообщение"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "súkromná správa"
           }
         },
         "sv" : {
@@ -16107,12 +16401,6 @@
             "value" : "user is blocked"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "používateľ je zablokovaný"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16207,6 +16495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "пользователь заблокирован"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "používateľ je zablokovaný"
           }
         },
         "sv" : {
@@ -16471,12 +16765,6 @@
             "value" : "send error"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "chyba odosielania"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16571,6 +16859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ошибка отправки"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chyba odosielania"
           }
         },
         "sv" : {
@@ -16835,12 +17129,6 @@
             "value" : "peer not reachable"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "používateľ nedostupný"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16937,6 +17225,12 @@
             "value" : "пир недостижим"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "používateľ nedostupný"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17018,12 +17312,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PEOPLE"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ĽUDIA"
           }
         },
         "es" : {
@@ -17120,6 +17408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ЛЮДИ"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ĽUDIA"
           }
         },
         "sv" : {
@@ -17384,12 +17678,6 @@
             "value" : "type a message..."
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "napíšte správu..."
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17484,6 +17772,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "напиши сообщение..."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "napíšte správu..."
           }
         },
         "sv" : {
@@ -17748,12 +18042,6 @@
             "value" : "enable location"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "zapnúť polohu"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17848,6 +18136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "включить локацию"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zapnúť polohu"
           }
         },
         "sv" : {
@@ -18470,12 +18764,6 @@
             "value" : "location unavailable"
           }
         },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "poloha nedostupná"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18570,6 +18858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "локация недоступна"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poloha nedostupná"
           }
         },
         "sv" : {
@@ -23636,6 +23930,185 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " (你)"
+          }
+        }
+      }
+    },
+    "Images are only available in mesh chats." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصور متاحة فقط في محادثات الميش."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ছবি শুধু মেশ চ্যাটে উপলব্ধ।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilder sind nur im Mesh-Chat verfügbar."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Images are only available in mesh chats."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las imágenes solo están disponibles en los chats de mesh."
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ang mga larawan ay available lamang sa mga mesh chat."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les images sont uniquement disponibles dans les discussions mesh."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תמונות זמינות רק בצ׳אט של mesh."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "चित्र केवल मेश चैट में ही उपलब्ध हैं।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gambar hanya tersedia di obrolan mesh."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le immagini sono disponibili solo nelle chat mesh."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像はメッシュチャットでのみ利用できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지는 메쉬 채팅에서만 사용할 수 있습니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imej hanya tersedia dalam sembang mesh."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "तस्बिरहरू केवल मेष च्याटमा मात्र उपलब्ध छन्।"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afbeeldingen zijn alleen beschikbaar in mesh-chats."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obrazy są dostępne tylko na czatach mesh."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As imagens só estão disponíveis nos chats mesh."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As imagens só estão disponíveis nos chats mesh."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Изображения доступны только в mesh-чатах."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilder är bara tillgängliga i mesh-chattar."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "படங்கள் மெஷ் உரையாடல்களில் மட்டுமே கிடைக்கும்."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รูปภาพใช้งานได้เฉพาะในแชต mesh เท่านั้น"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Görseller yalnızca mesh sohbetlerinde kullanılabilir."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зображення доступні лише в mesh-чатах."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تصاویر صرف میش چیٹس میں دستیاب ہیں۔"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hình ảnh chỉ khả dụng trong các cuộc trò chuyện mesh."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图片仅可在 mesh 聊天中使用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖片僅能在 mesh 聊天中使用。"
           }
         }
       }
@@ -36039,365 +36512,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "語音訊息僅能在 mesh 聊天中使用。"
-          }
-        }
-      }
-    },
-    "Images are only available in mesh chats." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الصور متاحة فقط في محادثات الميش."
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ছবি শুধু মেশ চ্যাটে উপলব্ধ।"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bilder sind nur im Mesh-Chat verfügbar."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Images are only available in mesh chats."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Las imágenes solo están disponibles en los chats de mesh."
-          }
-        },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ang mga larawan ay available lamang sa mga mesh chat."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Les images sont uniquement disponibles dans les discussions mesh."
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "תמונות זמינות רק בצ׳אט של mesh."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "चित्र केवल मेश चैट में ही उपलब्ध हैं।"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gambar hanya tersedia di obrolan mesh."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Le immagini sono disponibili solo nelle chat mesh."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "画像はメッシュチャットでのみ利用できます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이미지는 메쉬 채팅에서만 사용할 수 있습니다."
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Imej hanya tersedia dalam sembang mesh."
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "तस्बिरहरू केवल मेष च्याटमा मात्र उपलब्ध छन्।"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afbeeldingen zijn alleen beschikbaar in mesh-chats."
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obrazy są dostępne tylko na czatach mesh."
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "As imagens só estão disponíveis nos chats mesh."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "As imagens só estão disponíveis nos chats mesh."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Изображения доступны только в mesh-чатах."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bilder är bara tillgängliga i mesh-chattar."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "படங்கள் மெஷ் உரையாடல்களில் மட்டுமே கிடைக்கும்."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "รูปภาพใช้งานได้เฉพาะในแชต mesh เท่านั้น"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Görseller yalnızca mesh sohbetlerinde kullanılabilir."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зображення доступні лише в mesh-чатах."
-          }
-        },
-        "ur" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تصاویر صرف میش چیٹس میں دستیاب ہیں۔"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hình ảnh chỉ khả dụng trong các cuộc trò chuyện mesh."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "图片仅可在 mesh 聊天中使用。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "圖片僅能在 mesh 聊天中使用。"
-          }
-        }
-      }
-    },
-    "Choose an image" : {
-      "comment" : "A label displayed above a button that allows the user to choose an image to send.",
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "اختر صورة"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "একটি ছবি নির্বাচন করুন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bild auswählen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Choose an image"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elige una imagen"
-          }
-        },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumili ng larawan"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Choisir une image"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "בחר תמונה"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "एक चित्र चुनें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pilih gambar"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scegli un’immagine"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "画像を選択"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이미지를 선택하세요"
-          }
-        },
-        "ms" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pilih imej"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "एउटा तस्वीर चयन गर्नुहोस्"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kies een afbeelding"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wybierz obraz"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Escolher uma imagem"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Escolha uma imagem"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выберите изображение"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Välj en bild"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ஒரு படத்தைத் தேர்ந்தெடுக்கவும்"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เลือกภาพ"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bir görüntü seç"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Виберіть зображення"
-          }
-        },
-        "ur" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ایک تصویر منتخب کریں"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chọn một hình ảnh"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "选择图像"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "選擇圖像"
           }
         }
       }
