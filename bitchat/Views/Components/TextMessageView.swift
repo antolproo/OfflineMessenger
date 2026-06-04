@@ -67,6 +67,7 @@ struct TextMessageView: View {
     }
 }
 
+/*
 #Preview {
     let keychain = PreviewKeychainManager()
     
@@ -95,3 +96,4 @@ struct TextMessageView: View {
         )
     )
 }
+*/

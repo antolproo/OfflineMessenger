@@ -63,7 +63,7 @@ actor VoiceRecorder {
         try session.setCategory(
             .playAndRecord,
             mode: .default,
-            options: [.defaultToSpeaker, .allowBluetoothA2DP, .allowBluetooth]
+            options: [.defaultToSpeaker, .allowBluetoothA2DP, .allowBluetoothHFP]
         )
         #endif
         try session.setActive(true, options: .notifyOthersOnDeactivation)
