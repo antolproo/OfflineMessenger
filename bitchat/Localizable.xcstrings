@@ -7712,6 +7712,12 @@
             "value" : "выкл"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vypnúť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7889,6 +7895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "вкл"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "na"
           }
         },
         "sv" : {
@@ -8070,6 +8082,12 @@
             "value" : "неизвестно"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "neznámy"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8247,6 +8265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "добавить в избранное"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pridať do obľúbených"
           }
         },
         "sv" : {
@@ -8428,6 +8452,12 @@
             "value" : "доступно через nostr"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "k dispozícii prostredníctvom Nostr"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8605,6 +8635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "назад в основной чат"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "späť na hlavný chat"
           }
         },
         "sv" : {
@@ -8786,6 +8822,12 @@
             "value" : "подключено через mesh"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prepojené prostredníctvom siete typu mesh"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8963,6 +9005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "статус шифрования: %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "stav šifrovania: %@"
           }
         },
         "sv" : {
@@ -9144,6 +9192,12 @@
             "value" : "каналы локации"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lokálne kanály"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9323,6 +9377,12 @@
             "value" : "заметки для этого места"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poznámky k polohe tohto miesta"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9500,6 +9560,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "открыть непрочитанный приватный чат"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "otvoriť neprečítaný súkromný chat"
           }
         },
         "sv" : {
@@ -10009,6 +10075,46 @@
             }
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@people@"
+          },
+          "substitutions" : {
+            "people" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d person"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10244,6 +10350,12 @@
             "value" : "приватный чат с %@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "súkromný chat s %@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10421,6 +10533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "достижим через mesh"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prístupné cez sieť"
           }
         },
         "sv" : {
@@ -10602,6 +10720,12 @@
             "value" : "убрать из избранного"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "odstrániť z obľúbených"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10779,6 +10903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "введи сообщение для отправки"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "napíšte správu, ktorú chcete odoslať"
           }
         },
         "sv" : {
@@ -10960,6 +11090,12 @@
             "value" : "дважды тапни, чтобы отправить"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dvojité ťuknutie na odoslanie"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11137,6 +11273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "отправить сообщение"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poslať správu"
           }
         },
         "sv" : {
@@ -11318,6 +11460,12 @@
             "value" : "переключить закладку для #%@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zobraziť záložku pre #%@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11495,6 +11643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "дважды тапни, чтобы переключить статус избранного"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dvojitým ťuknutím prepnete stav obľúbenosti"
           }
         },
         "sv" : {
@@ -11676,6 +11830,12 @@
             "value" : "нажми, чтобы увидеть криптографический отпечаток"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kliknite pre zobrazenie šifrovacieho odtlačku"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11853,6 +12013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "заблокировать"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "blok"
           }
         },
         "sv" : {
@@ -12219,6 +12385,12 @@
             "value" : "обнять"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "objaťie"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12396,6 +12568,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "упомянуть"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "spomenúť"
           }
         },
         "sv" : {
@@ -12577,6 +12755,12 @@
             "value" : "дать леща"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "facka"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12754,6 +12938,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "действия"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "akcie"
           }
         },
         "sv" : {
@@ -12935,6 +13125,12 @@
             "value" : "bluetooth выключен. включи bluetooth в настройках, чтобы использовать OfflineMessenger."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth je vypnutý. Ak chcete používať OfflineMessenger, zapnite prosím Bluetooth."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13112,6 +13308,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OfflineMessenger нужен доступ к bluetooth, чтобы соединяться с ближайшими устройствами. включи разрешение в настройках."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikácia OfflineMessenger potrebuje povolenie na používanie Bluetooth, aby sa mohla pripojiť k zariadeniam v okolí. Prosím, povolte prístup k Bluetooth v nastaveniach."
           }
         },
         "sv" : {
@@ -13478,6 +13680,12 @@
             "value" : "bluetooth обязателен"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vyžaduje sa Bluetooth"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13655,6 +13863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "это устройство не поддерживает bluetooth. OfflineMessenger нужен bluetooth для работы."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toto zariadenie nepodporuje Bluetooth. Aplikácia OfflineMessenger na svoju činnosť vyžaduje Bluetooth."
           }
         },
         "sv" : {
@@ -13836,6 +14050,12 @@
             "value" : "скриншоты каналов местоположения раскроют твою позицию. подумай, прежде чем делиться публично."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snímky obrazovky kanálov so zdanou polohou môžu prezradiť vašu polohu. Predtým, ako ich zverejníte, si to dobre premyslite."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14015,6 +14235,12 @@
             "value" : "внимание"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pozor"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14192,6 +14418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "заблокировать или показать заблокированных"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zablokovať alebo zobraziť zoznam zablokovaných partnerov"
           }
         },
         "sv" : {
@@ -14558,6 +14790,12 @@
             "value" : "добавить в избранное"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pridať do obľúbených"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14735,6 +14973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "отправить тёплое объятие"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poslať niekomu srdečné objatie"
           }
         },
         "sv" : {
@@ -15101,6 +15345,12 @@
             "value" : "дать кому-то пощёчину форелью"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "udrieť niekoho pstruhom"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15278,6 +15528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "разблокировать пира"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "odblokovať partnera"
           }
         },
         "sv" : {
@@ -15459,6 +15715,12 @@
             "value" : "убрать из избранного"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "odstrániť z obľúbených"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15636,6 +15898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "посмотреть, кто онлайн"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zistiť, kto je online"
           }
         },
         "sv" : {
@@ -15817,6 +16085,12 @@
             "value" : "доставлено %1$d из %2$d участников"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "doručené %1$d z %2$d členov"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15994,6 +16268,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "доставлено %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "doručené na %@"
           }
         },
         "sv" : {
@@ -16175,6 +16455,12 @@
             "value" : "ошибка: %@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nepodarilo sa: %@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16352,6 +16638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "прочитано %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prečítal %@"
           }
         },
         "sv" : {
@@ -16718,6 +17010,12 @@
             "value" : "нельзя отправить себе"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nemôžete poslať správu sám sebe"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17080,6 +17378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "неизвестный получатель"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "neznámy príjemca"
           }
         },
         "sv" : {
@@ -17631,6 +17935,12 @@
             "value" : "верификация: показать мой qr или сканировать друга"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "overenie: ukázať svoj QR kód alebo naskenovať kód priateľa"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17993,6 +18303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ник"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prezývka"
           }
         },
         "sv" : {
@@ -18359,6 +18675,12 @@
             "value" : "копировать сообщение"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "skopírovať správu"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18538,6 +18860,12 @@
             "value" : "показать меньше"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zobraziť menej"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18715,6 +19043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "показать больше"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zobraziť viac"
           }
         },
         "sv" : {
@@ -19081,6 +19415,12 @@
             "value" : "заметки"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "poznámky"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19258,6 +19598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "оплатить через cashu"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zaplatiť v cashu"
           }
         },
         "sv" : {
@@ -19439,6 +19785,12 @@
             "value" : "оплатить через lightning"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zaplatiť v lightning"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19616,6 +19968,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "устанавливается шифрование"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nastavenie šifrovania"
           }
         },
         "sv" : {
@@ -19797,6 +20155,12 @@
             "value" : "шифрование не удалось"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Šifrovanie sa nepodarilo"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19974,6 +20338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "не зашифровано"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nie je šifrované"
           }
         },
         "sv" : {
@@ -20155,6 +20525,12 @@
             "value" : "зашифровано"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zašifrované"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20332,6 +20708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "зашифровано и проверено"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zašifrované a overené"
           }
         },
         "sv" : {
@@ -20513,6 +20895,12 @@
             "value" : "устанавливаем шифрование..."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pripravuje sa šifrovanie..."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20690,6 +21078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "шифрование не удалось"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Šifrovanie sa nepodarilo"
           }
         },
         "sv" : {
@@ -20871,6 +21265,12 @@
             "value" : "не зашифровано"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nie je šifrované"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21048,6 +21448,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "зашифровано"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zašifrované"
           }
         },
         "sv" : {
@@ -21229,6 +21635,12 @@
             "value" : "зашифровано и проверено"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zašifrované a overené"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21406,6 +21818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "пометить как проверено"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "označiť ako overené"
           }
         },
         "sv" : {
@@ -21587,6 +22005,12 @@
             "value" : "удалить проверку"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zrušiť overenie"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21764,6 +22188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️ НЕ ПРОВЕРЕНО"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️ NEOVERENÉ"
           }
         },
         "sv" : {
@@ -21945,6 +22375,12 @@
             "value" : "✓ ПРОВЕРЕНО"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✓ OVERENÉ"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22122,6 +22558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "недоступно — handshake выполняется"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nie je k dispozícii – prebieha inicializácia spojenia"
           }
         },
         "sv" : {
@@ -22303,6 +22745,12 @@
             "value" : "ты подтвердил личность этого человека."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "overili ste totožnosť tejto osoby."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22480,6 +22928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "сравни эти отпечатки с %@ по безопасному каналу."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "porovnaj tieto odtlačky prstov s %@ prostredníctvom zabezpečeného kanála."
           }
         },
         "sv" : {
@@ -22661,6 +23115,12 @@
             "value" : "их отпечаток:"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ich odtlačok prsta:"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22838,6 +23298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "проверка безопасности"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "overenie bezpečnosti"
           }
         },
         "sv" : {
@@ -23019,6 +23485,12 @@
             "value" : "твой отпечаток:"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "váš odtlačok prsta:"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23196,6 +23668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "заблокировать"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "blok"
           }
         },
         "sv" : {
@@ -23377,6 +23855,12 @@
             "value" : "разблокировать"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "odblokovať"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23554,6 +24038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "никого рядом..."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nikto tu nie je..."
           }
         },
         "sv" : {
@@ -23735,6 +24225,12 @@
             "value" : "заблокирован в geohash"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zablokované v geohashi"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23912,6 +24408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " (ты)"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(vy)"
           }
         },
         "sv" : {
@@ -24093,6 +24595,12 @@
             "value" : "Изображения доступны только в mesh-чатах."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obrázky sú k dispozícii iba v sieťových chatoch."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24270,6 +24778,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "открыть настройки"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "otvoriť nastavenia"
           }
         },
         "sv" : {
@@ -24451,6 +24965,12 @@
             "value" : "отключить доступ к локации"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zrušiť prístup k polohe"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24628,6 +25148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "получить мою локацию и geohash"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "získať polohu a moje geohashy"
           }
         },
         "sv" : {
@@ -24809,6 +25335,12 @@
             "value" : "телепорт"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "teleportácia"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -24986,6 +25518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "закреплённые"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pridané do záložiek"
           }
         },
         "sv" : {
@@ -25167,6 +25705,12 @@
             "value" : "общайся с людьми рядом через каналы geohash. делится только грубый geohash, без точного gps. твой ip скрывается за счёт маршрутизации трафика через tor."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "komunikujte s ľuďmi vo vašom okolí prostredníctvom geohash kanálov. zdieľa sa len približná poloha geohash, nikdy presné GPS súradnice. vaša IP adresa je skrytá vďaka smerovaniu celého prevádzky cez sieť Tor."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25344,6 +25888,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "некорректный geohash"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "neplatný geohash"
           }
         },
         "sv" : {
@@ -25525,6 +26075,12 @@
             "value" : "поиск каналов рядом…"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hľadanie kanálov v okolí…"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25699,6 +26255,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mesh"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mesh"
@@ -25881,6 +26443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "доступ к локации запрещён. включи разрешение в настройках, чтобы использовать каналы."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prístup k polohe bol zamietnutý. Ak chcete používať kanály založené na polohe, povolte túto funkciu v nastaveniach."
           }
         },
         "sv" : {
@@ -26390,6 +26958,46 @@
             }
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ [%2$#@people_count@]"
+          },
+          "substitutions" : {
+            "people_count" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d person"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d people"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26625,6 +27233,12 @@
             "value" : "#%@ • %@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#%1$@ • %2$@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26799,6 +27413,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ • %2$@"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ • %2$@"
@@ -26983,6 +27603,12 @@
             "value" : "#каналы локации"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#kanály podľa lokality"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27160,6 +27786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "скрывает твой ip для каналов локации. рекомендуем включить."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "skryje vašu IP adresu pre lokalizačné kanály. odporúčané nastavenie: zapnuté."
           }
         },
         "sv" : {
@@ -27341,6 +27973,12 @@
             "value" : "маршрутизация tor"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tor smerovania"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27518,6 +28156,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "квартал"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "blok"
           }
         },
         "sv" : {
@@ -27699,6 +28343,12 @@
             "value" : "здание"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "budova"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27876,6 +28526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "город"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mesto"
           }
         },
         "sv" : {
@@ -28057,6 +28713,12 @@
             "value" : "район"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "okolie"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28234,6 +28896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "область"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kraj"
           }
         },
         "sv" : {
@@ -28415,6 +29083,12 @@
             "value" : "регион"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "región"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28592,6 +29266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "закрыть"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zamietnuť"
           }
         },
         "sv" : {
@@ -28773,6 +29453,12 @@
             "value" : "повторить"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "opätovný pokus"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28950,6 +29636,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "добавь короткие постоянные заметки об этом месте для других."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pridajte k tomuto miestu krátke trvalé poznámky, aby ich mohli nájsť ostatní návštevníci."
           }
         },
         "sv" : {
@@ -29131,6 +29823,12 @@
             "value" : "стань первым, кто добавит здесь заметку."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "buďte prvý, kto sem niečo pridá."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29308,6 +30006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "заметок пока нет"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zatiaľ žiadne poznámky"
           }
         },
         "sv" : {
@@ -29489,6 +30193,12 @@
             "value" : "не удалось отправить заметку. %@"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odoslanie správy sa nepodarilo. %@"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29666,6 +30376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "рядом нет георелеев. попробуй позже."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V blízkosti tejto lokality nie sú k dispozícii žiadne geografické relé. Skúste to neskôr."
           }
         },
         "sv" : {
@@ -30175,6 +30891,46 @@
             }
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#%1$@ • %2$#@note_count@"
+          },
+          "substitutions" : {
+            "note_count" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d notes"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d notes"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d note"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%d notes"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30410,6 +31166,12 @@
             "value" : "загрузка заметок…"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "načítavanie poznámok…"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30587,6 +31349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "загрузка свежих заметок…"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "načítavanie posledných poznámok…"
           }
         },
         "sv" : {
@@ -30768,6 +31536,12 @@
             "value" : "рядом нет георелеев"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "v okolí nie sú žiadne geografické relé"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30945,6 +31719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "добавь заметку для этого места"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pridať poznámku k tomuto miestu"
           }
         },
         "sv" : {
@@ -31126,6 +31906,12 @@
             "value" : "геореле недоступны; заметки приостановлены"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geo relé nie sú k dispozícii; poznámky pozastavené"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31303,6 +32089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "заметки зависят от георелеев. проверь подключение и попробуй снова."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Záznamy využívajú geolokačné relé. Skontrolujte pripojenie a skúste to znova."
           }
         },
         "sv" : {
@@ -31484,6 +32276,12 @@
             "value" : "новые сообщения"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nové správy"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31661,6 +32459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "идет запись %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nahrávanie %@"
           }
         },
         "sv" : {
@@ -31842,6 +32646,12 @@
             "value" : "сохранить"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uložiť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32019,6 +32829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "нельзя начать чат с %@: пользователь заблокирован."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nemôžem začať chatovať s %@: táto osoba je zablokovaná."
           }
         },
         "sv" : {
@@ -32200,6 +33016,12 @@
             "value" : "нельзя начать чат с %@: нужны взаимные избранные для офлайна."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie je možné začať chat s %@: pre zasielanie správ v režime offline je potrebné, aby ste sa navzájom pridali do zoznamu obľúbených."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32377,6 +33199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "пользователь"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "užívateľ"
           }
         },
         "sv" : {
@@ -32558,6 +33386,12 @@
             "value" : "отправка невозможна: пользователь заблокирован."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Správa sa nedá odoslať: táto osoba je zablokovaná."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32735,6 +33569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "нельзя отправить %@: пользователь заблокирован."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Správu nie je možné odoslať na %@: táto osoba je zablokovaná."
           }
         },
         "sv" : {
@@ -32916,6 +33756,12 @@
             "value" : "нельзя отправить %@: адресат недоступен через mesh или nostr."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nie je možné odoslať správu na %@ – partner nie je dostupný cez sieť mesh ani prostredníctvom Nostr."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33093,6 +33939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ заблокирован в geohash-чатах"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "zablokoval %@ v geohashových chatoch"
           }
         },
         "sv" : {
@@ -33274,6 +34126,12 @@
             "value" : "%@ разблокирован в geohash-чатах"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "odblokoval %@ v geohashových chatoch"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33451,6 +34309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "отправка невозможна: ты не в канале локации"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nemôžem odoslať: nie som v kanáli lokality"
           }
         },
         "sv" : {
@@ -33632,6 +34496,12 @@
             "value" : "не удалось отправить в канал локации"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nepodarilo sa odoslať do kanála umiestnenia"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33809,6 +34679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "dev-сборка: обход tor включён."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vývojová verzia: funkcia obchádzania Toru je zapnutá."
           }
         },
         "sv" : {
@@ -33990,6 +34866,12 @@
             "value" : "tor перезапущен. маршрутизация восстановлена."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server bol reštartovaný. Smerovanie siete bolo obnovené."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34167,6 +35049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "tor перезапускается, чтобы вернуть связь..."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server sa reštartuje s cieľom obnoviť pripojenie..."
           }
         },
         "sv" : {
@@ -34348,6 +35236,12 @@
             "value" : "tor запущен. весь чат идёт через tor для приватности."
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spustil sa Tor. Všetky konverzácie sa smerujú cez Tor, aby bola zabezpečená ochrana IP adresy."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34525,6 +35419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "запуск tor..."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "začiatok tor..."
           }
         },
         "sv" : {
@@ -34706,6 +35606,12 @@
             "value" : "qr-код проверки"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "overovací QR kód"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34883,6 +35789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "отсканируй, чтобы подтвердить меня"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "naskenujte to na overenie mojej totožnosti"
           }
         },
         "sv" : {
@@ -35064,6 +35976,12 @@
             "value" : "qr недоступен"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR kód nie je k dispozícii"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35241,6 +36159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "вставь содержимое qr для проверки:"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vložte obsah QR kódu na overenie:"
           }
         },
         "sv" : {
@@ -35422,6 +36346,12 @@
             "value" : "отсканируй qr друга"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "naskenovať QR kód priateľa"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35599,6 +36529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "qr недействителен или просрочен"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "neplatný alebo neplatný obsah QR kódu"
           }
         },
         "sv" : {
@@ -35780,6 +36716,12 @@
             "value" : "соответствующий пир не найден"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nepodarilo sa nájsť zodpovedajúceho partnera"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35957,6 +36899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "проверка запрошена для %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "požaduje sa overenie pre %@"
           }
         },
         "sv" : {
@@ -36138,6 +37086,12 @@
             "value" : "проверить"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "overiť"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36317,6 +37271,12 @@
             "value" : "ПРОВЕРИТЬ"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OVERIŤ"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36494,6 +37454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Голосовые сообщения доступны только в mesh-чатах."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlasové správy sú k dispozícii iba v sieťových chatoch."
           }
         },
         "sv" : {
